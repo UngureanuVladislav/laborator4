@@ -2,7 +2,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ["main"] # Запуск при пуше в ветку main (или master)
+    branches: ["main"] 
 
 permissions:
   contents: read
